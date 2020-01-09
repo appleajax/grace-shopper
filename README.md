@@ -52,7 +52,7 @@ LinkedIn: https://www.linkedin.com/in/alexis-w-1799578a/
 
 ### `Sharmin Sultana`
 
-LinkedIn: https://www.linkedin.com/in/sharminsultana/
+LinkedIn: https://github.com/sharmin523
 
 Github: https://www.linkedin.com/in/sharmin-s/
 
