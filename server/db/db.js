@@ -6,7 +6,11 @@ const pkg = require('../../package.json')
 const db = new Sequelize(
   process.env.DATABASE_URL || `postgres://localhost:5432/${pkg.name}`,
   {
-    logging: false
+    logging: false,
+    dialect: 'postgres',
+    dialectOptions: {
+      ssl: true
+    }
   }
 )
 module.exports = db
